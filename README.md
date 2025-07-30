@@ -29,4 +29,4 @@ A simple text-based PhoneBook app built as a mini-project to practice Python fun
 
 ---
 
-*Project by Shailya Gandhi as part of a #LearningJourney.*
+*Project by Shailya Gandhi (https://github.com/Shailya777) as part of a #LearningJourney.*
